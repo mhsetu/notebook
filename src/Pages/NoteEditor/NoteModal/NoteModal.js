@@ -15,14 +15,6 @@ const NoteModal = () => {
             ✕
           </label>
           <NoteEditor />
-          {/* <div className='modal-action'>
-            <label
-              htmlFor='noteModal'
-              className='btn btn-success text-white mx-4 mb-4'
-            >
-              Submit
-            </label>
-          </div> */}
         </div>
       </div>
     </div>
